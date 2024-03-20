@@ -45,7 +45,6 @@
 #include "drw.h"
 #include "util.h"
 
-#define MAX_CLIENTS 100
 /* macros */
 #define BUTTONMASK (ButtonPressMask | ButtonReleaseMask)
 #define CLEANMASK(mask)                                                        \
