@@ -1,0 +1,77 @@
+Mar 20 17:07:21 linux-home dwm[1201]: Detached window 14680186 from stack on monitor 1
+Mar 20 17:07:23 linux-home dwm[1201]: Detached window 10485765 from stack on monitor 0
+Mar 20 17:07:37 linux-home dwm[1201]: Monitor 0 initialized: x=0 y=0 width=3840 height=2160
+Mar 20 17:07:37 linux-home dwm[1201]: Monitor 1 initialized: x=3840 y=0 width=2560 height=1440
+Mar 20 17:07:37 linux-home dwm[1201]: Attached window 10485765 to stack on monitor 0
+Mar 20 17:07:37 linux-home dwm[1201]: Detached window 10485765 from stack on monitor 0
+Mar 20 17:07:37 linux-home dwm[1201]: Arranging monitor: m->num=0
+Mar 20 17:07:37 linux-home dwm[1201]: Arranging monitor in arrangemon: m->num=0
+Mar 20 17:07:37 linux-home dwm[1201]:   Window 10485765: x=0 y=21 w=3828 h=2116
+Mar 20 17:07:37 linux-home dwm[1201]: Finished arranging monitor: m->num=0
+Mar 20 17:07:37 linux-home dwm[1201]: Detached window 10485765 from stack on monitor 0
+Mar 20 17:07:37 linux-home dwm[1201]: Attached window 14680186 to stack on monitor 0
+Mar 20 17:07:37 linux-home dwm[1201]: Detached window 14680186 from stack on monitor 0
+Mar 20 17:07:37 linux-home dwm[1201]: Arranging monitor: m->num=0
+Mar 20 17:07:37 linux-home dwm[1201]: Arranging monitor in arrangemon: m->num=0
+Mar 20 17:07:37 linux-home dwm[1201]:   Window 14680186: x=0 y=21 w=2110 h=2137
+Mar 20 17:07:37 linux-home dwm[1201]:   Window 10485765: x=2112 y=21 w=1716 h=2116
+Mar 20 17:07:37 linux-home dwm[1201]: Finished arranging monitor: m->num=0
+Mar 20 17:07:37 linux-home dwm[1201]: Detached window 14680186 from stack on monitor 0
+Mar 20 17:07:37 linux-home dwm[1201]: Attached window 14680109 to stack on monitor 0
+Mar 20 17:07:37 linux-home dwm[1201]: Detached window 14680109 from stack on monitor 0
+Mar 20 17:07:37 linux-home dwm[1201]: Arranging monitor: m->num=0
+Mar 20 17:07:37 linux-home dwm[1201]: Arranging monitor in arrangemon: m->num=0
+Mar 20 17:07:37 linux-home dwm[1201]:   Window 14680109: x=0 y=21 w=2110 h=2137
+Mar 20 17:07:37 linux-home dwm[1201]:   Window 14680186: x=2112 y=21 w=1726 h=1067
+Mar 20 17:07:37 linux-home dwm[1201]:   Window 10485765: x=2112 y=1090 w=1716 h=1060
+Mar 20 17:07:37 linux-home dwm[1201]: Finished arranging monitor: m->num=0
+Mar 20 17:07:37 linux-home dwm[1201]: Detached window 14680109 from stack on monitor 0
+Mar 20 17:07:37 linux-home dwm[1201]: Arranging monitor: m->num=0
+Mar 20 17:07:37 linux-home dwm[1201]: Arranging monitor in arrangemon: m->num=0
+Mar 20 17:07:37 linux-home dwm[1201]:   Window 14680109: x=0 y=21 w=2110 h=2137
+Mar 20 17:07:37 linux-home dwm[1201]:   Window 14680186: x=2112 y=21 w=1726 h=1067
+Mar 20 17:07:37 linux-home dwm[1201]:   Window 10485765: x=2112 y=1090 w=1716 h=1060
+Mar 20 17:07:37 linux-home dwm[1201]: Finished arranging monitor: m->num=0
+Mar 20 17:07:37 linux-home dwm[1201]: Arranging monitor: m->num=1
+Mar 20 17:07:37 linux-home dwm[1201]: Arranging monitor in arrangemon: m->num=1
+Mar 20 17:07:37 linux-home dwm[1201]: Finished arranging monitor: m->num=1
+Mar 20 17:07:37 linux-home dwm[1201]: Detached window 10485765 from stack on monitor 0
+Mar 20 17:07:37 linux-home dwm[1201]: Current client states after deserialization:
+Mar 20 17:07:37 linux-home dwm[1201]: Window 14680109: x=0 y=21 w=2110 h=2137 isfloating=0 tags=1 monitor=0
+Mar 20 17:07:37 linux-home dwm[1201]: Window 14680186: x=2112 y=21 w=1726 h=1067 isfloating=0 tags=1 monitor=0
+Mar 20 17:07:37 linux-home dwm[1201]: Window 10485765: x=2112 y=1090 w=1716 h=1060 isfloating=0 tags=1 monitor=0
+Mar 20 17:07:38 linux-home dwm[1201]: Attached window 10485765 to stack on monitor 1
+Mar 20 17:07:38 linux-home dwm[1201]: Detached window 10485765 from stack on monitor 1
+Mar 20 17:07:38 linux-home dwm[1201]: Detached window 14680109 from stack on monitor 0
+Mar 20 17:07:38 linux-home dwm[1201]: Arranging monitor: m->num=-1
+Mar 20 17:07:38 linux-home dwm[1201]: Arranging monitor in arrangemon: m->num=0
+Mar 20 17:07:38 linux-home dwm[1201]:   Window 14680109: x=0 y=21 w=2110 h=2137
+Mar 20 17:07:38 linux-home dwm[1201]:   Window 14680186: x=2112 y=21 w=1726 h=2137
+Mar 20 17:07:38 linux-home dwm[1201]: Arranging monitor in arrangemon: m->num=1
+Mar 20 17:07:38 linux-home dwm[1201]:   Window 10485765: x=3840 y=21 w=2548 h=1412
+Mar 20 17:07:38 linux-home dwm[1201]: Finished arranging monitor: m->num=-1
+Mar 20 17:07:39 linux-home dwm[1201]: Attached window 14680109 to stack on monitor 1
+Mar 20 17:07:39 linux-home dwm[1201]: Detached window 14680109 from stack on monitor 1
+Mar 20 17:07:39 linux-home dwm[1201]: Detached window 14680186 from stack on monitor 0
+Mar 20 17:07:39 linux-home dwm[1201]: Arranging monitor: m->num=-1
+Mar 20 17:07:39 linux-home dwm[1201]: Arranging monitor in arrangemon: m->num=0
+Mar 20 17:07:39 linux-home dwm[1201]:   Window 14680186: x=0 y=21 w=3838 h=2137
+Mar 20 17:07:39 linux-home dwm[1201]: Arranging monitor in arrangemon: m->num=1
+Mar 20 17:07:39 linux-home dwm[1201]:   Window 14680109: x=3840 y=21 w=1406 h=1417
+Mar 20 17:07:39 linux-home dwm[1201]:   Window 10485765: x=5248 y=21 w=1140 h=1412
+Mar 20 17:07:39 linux-home dwm[1201]: Finished arranging monitor: m->num=-1
+Mar 20 17:07:40 linux-home dwm[1201]: Detached window 14680109 from stack on monitor 1
+Mar 20 17:07:40 linux-home dwm[1201]: Detached window 10485765 from stack on monitor 1
+Mar 20 17:07:41 linux-home dwm[1201]: Attached window 10485765 to stack on monitor 0
+Mar 20 17:07:41 linux-home dwm[1201]: Detached window 10485765 from stack on monitor 0
+Mar 20 17:07:41 linux-home dwm[1201]: Detached window 14680109 from stack on monitor 1
+Mar 20 17:07:41 linux-home dwm[1201]: Arranging monitor: m->num=-1
+Mar 20 17:07:41 linux-home dwm[1201]: Arranging monitor in arrangemon: m->num=0
+Mar 20 17:07:41 linux-home dwm[1201]:   Window 10485765: x=0 y=21 w=2100 h=2116
+Mar 20 17:07:41 linux-home dwm[1201]:   Window 14680186: x=2112 y=21 w=1726 h=2137
+Mar 20 17:07:41 linux-home dwm[1201]: Arranging monitor in arrangemon: m->num=1
+Mar 20 17:07:41 linux-home dwm[1201]:   Window 14680109: x=3840 y=21 w=2558 h=1417
+Mar 20 17:07:41 linux-home dwm[1201]: Finished arranging monitor: m->num=-1
+Mar 20 17:07:42 linux-home dwm[1201]: Detached window 14680186 from stack on monitor 0
+Mar 20 17:07:42 linux-home dwm[1201]: Detached window 10485765 from stack on monitor 0
+Mar 20 17:07:42 linux-home dwm[1201]: Detached window 10485765 from stack on monitor 0
