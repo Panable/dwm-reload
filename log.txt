@@ -1,0 +1,107 @@
+Mar 16 14:52:36 linux-home dwm[1232]: Monitor 0 initialized: x=0 y=0 width=3840 height=2160
+Mar 16 14:52:36 linux-home dwm[1232]: Monitor 1 initialized: x=3840 y=0 width=2560 height=1440
+Mar 16 14:52:36 linux-home dwm[1232]: Arranging monitor: m->num=0
+Mar 16 14:52:36 linux-home dwm[1232]: Before arranging:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=2114 y=734 w=1726 h=711
+Mar 16 14:52:36 linux-home dwm[1232]: Applying layout for monitor: m->num=0, layout=[]=
+Mar 16 14:52:36 linux-home dwm[1232]: Before applying layout:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=2114 y=734 w=1726 h=711
+Mar 16 14:52:36 linux-home dwm[1232]: After applying layout:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=0 y=21 w=3838 h=2137
+Mar 16 14:52:36 linux-home dwm[1232]: After arranging:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=0 y=21 w=3838 h=2137
+Mar 16 14:52:36 linux-home dwm[1232]: Arranging monitor: m->num=0
+Mar 16 14:52:36 linux-home dwm[1232]: Before arranging:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=2114 y=21 w=1726 h=711
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=0 y=21 w=3838 h=2137
+Mar 16 14:52:36 linux-home dwm[1232]: Applying layout for monitor: m->num=0, layout=[]=
+Mar 16 14:52:36 linux-home dwm[1232]: Before applying layout:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=2114 y=21 w=1726 h=711
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=0 y=21 w=3838 h=2137
+Mar 16 14:52:36 linux-home dwm[1232]: After applying layout:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=0 y=21 w=2110 h=2137
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=2112 y=21 w=1726 h=2137
+Mar 16 14:52:36 linux-home dwm[1232]: After arranging:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=0 y=21 w=2110 h=2137
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=2112 y=21 w=1726 h=2137
+Mar 16 14:52:36 linux-home dwm[1232]: Arranging monitor: m->num=0
+Mar 16 14:52:36 linux-home dwm[1232]: Before arranging:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 10485765: x=2112 y=1447 w=1716 h=708
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=0 y=21 w=2110 h=2137
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=2112 y=21 w=1726 h=2137
+Mar 16 14:52:36 linux-home dwm[1232]: Applying layout for monitor: m->num=0, layout=[]=
+Mar 16 14:52:36 linux-home dwm[1232]: Before applying layout:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 10485765: x=2112 y=1447 w=1716 h=708
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=0 y=21 w=2110 h=2137
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=2112 y=21 w=1726 h=2137
+Mar 16 14:52:36 linux-home dwm[1232]: After applying layout:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 10485765: x=0 y=21 w=2100 h=2116
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=2112 y=21 w=1726 h=1067
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=2112 y=1090 w=1726 h=1068
+Mar 16 14:52:36 linux-home dwm[1232]: After arranging:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 10485765: x=0 y=21 w=2100 h=2116
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=2112 y=21 w=1726 h=1067
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=2112 y=1090 w=1726 h=1068
+Mar 16 14:52:36 linux-home dwm[1232]: Arranging monitor: m->num=0
+Mar 16 14:52:36 linux-home dwm[1232]: Before arranging:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 54525957: x=0 y=21 w=2100 h=2116
+Mar 16 14:52:36 linux-home dwm[1232]: Window 10485765: x=0 y=21 w=2100 h=2116
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=2112 y=21 w=1726 h=1067
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=2112 y=1090 w=1726 h=1068
+Mar 16 14:52:36 linux-home dwm[1232]: Applying layout for monitor: m->num=0, layout=[]=
+Mar 16 14:52:36 linux-home dwm[1232]: Before applying layout:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 54525957: x=0 y=21 w=2100 h=2116
+Mar 16 14:52:36 linux-home dwm[1232]: Window 10485765: x=0 y=21 w=2100 h=2116
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=2112 y=21 w=1726 h=1067
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=2112 y=1090 w=1726 h=1068
+Mar 16 14:52:36 linux-home dwm[1232]: After applying layout:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 54525957: x=0 y=21 w=2100 h=2116
+Mar 16 14:52:36 linux-home dwm[1232]: Window 10485765: x=2112 y=21 w=1716 h=708
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=2112 y=731 w=1726 h=712
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=2112 y=1445 w=1726 h=713
+Mar 16 14:52:36 linux-home dwm[1232]: After arranging:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 54525957: x=0 y=21 w=2100 h=2116
+Mar 16 14:52:36 linux-home dwm[1232]: Window 10485765: x=2112 y=21 w=1716 h=708
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=2112 y=731 w=1726 h=712
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=2112 y=1445 w=1726 h=713
+Mar 16 14:52:36 linux-home dwm[1232]: Deserializing window: win=54525957, x=0, y=21, w=2100, h=2116, tags=1, monitorNum=0, selectedTags=1
+Mar 16 14:52:36 linux-home dwm[1232]: Resizing window: win=54525957, x=0, y=21, w=2100, h=2116
+Mar 16 14:52:36 linux-home dwm[1232]: Deserializing window: win=52428845, x=3840, y=21, w=1726, h=711, tags=1, monitorNum=1, selectedTags=1
+Mar 16 14:52:36 linux-home dwm[1232]: Resizing window: win=52428845, x=3840, y=21, w=1726, h=711
+Mar 16 14:52:36 linux-home dwm[1232]: Deserializing window: win=14680073, x=3840, y=734, w=1726, h=711, tags=1, monitorNum=1, selectedTags=1
+Mar 16 14:52:36 linux-home dwm[1232]: Resizing window: win=14680073, x=3840, y=734, w=1726, h=711
+Mar 16 14:52:36 linux-home dwm[1232]: Deserializing window: win=10485765, x=2112, y=1447, w=1716, h=708, tags=1, monitorNum=0, selectedTags=1
+Mar 16 14:52:36 linux-home dwm[1232]: Resizing window: win=10485765, x=2112, y=1447, w=1716, h=708
+Mar 16 14:52:36 linux-home dwm[1232]: Arranging monitor: m->num=0
+Mar 16 14:52:36 linux-home dwm[1232]: Before arranging:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 54525957: x=0 y=21 w=2100 h=2116
+Mar 16 14:52:36 linux-home dwm[1232]: Window 10485765: x=2112 y=1447 w=1716 h=708
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=3840 y=21 w=1726 h=711
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=3840 y=734 w=1726 h=711
+Mar 16 14:52:36 linux-home dwm[1232]: Applying layout for monitor: m->num=0, layout=[]=
+Mar 16 14:52:36 linux-home dwm[1232]: Before applying layout:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 54525957: x=0 y=21 w=2100 h=2116
+Mar 16 14:52:36 linux-home dwm[1232]: Window 10485765: x=2112 y=1447 w=1716 h=708
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=3840 y=21 w=1726 h=711
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=3840 y=734 w=1726 h=711
+Mar 16 14:52:36 linux-home dwm[1232]: After applying layout:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 54525957: x=0 y=21 w=2100 h=2116
+Mar 16 14:52:36 linux-home dwm[1232]: Window 10485765: x=2112 y=21 w=1716 h=708
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=3840 y=731 w=1726 h=712
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=3840 y=727 w=1726 h=713
+Mar 16 14:52:36 linux-home dwm[1232]: After arranging:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 54525957: x=0 y=21 w=2100 h=2116
+Mar 16 14:52:36 linux-home dwm[1232]: Window 10485765: x=2112 y=21 w=1716 h=708
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=3840 y=731 w=1726 h=712
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=3840 y=727 w=1726 h=713
+Mar 16 14:52:36 linux-home dwm[1232]: Arranging monitor: m->num=1
+Mar 16 14:52:36 linux-home dwm[1232]: Before arranging:
+Mar 16 14:52:36 linux-home dwm[1232]: Applying layout for monitor: m->num=1, layout=[]=
+Mar 16 14:52:36 linux-home dwm[1232]: Before applying layout:
+Mar 16 14:52:36 linux-home dwm[1232]: After applying layout:
+Mar 16 14:52:36 linux-home dwm[1232]: After arranging:
+Mar 16 14:52:36 linux-home dwm[1232]: Current client states after deserialization:
+Mar 16 14:52:36 linux-home dwm[1232]: Window 54525957: x=0 y=21 w=2100 h=2116 isfloating=0 tags=1 monitor=0
+Mar 16 14:52:36 linux-home dwm[1232]: Window 10485765: x=2112 y=21 w=1716 h=708 isfloating=0 tags=1 monitor=0
+Mar 16 14:52:36 linux-home dwm[1232]: Window 52428845: x=3840 y=731 w=1726 h=712 isfloating=0 tags=1 monitor=0
+Mar 16 14:52:36 linux-home dwm[1232]: Window 14680073: x=3840 y=727 w=1726 h=713 isfloating=0 tags=1 monitor=0
